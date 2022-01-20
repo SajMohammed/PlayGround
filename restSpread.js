@@ -6,7 +6,7 @@ let add = (...input) => { // The rest parameter ... lets you use arbitrary numbe
     return sum;
 }
 
-//console.log(add(1,2,3,4));
+console.log(add(1,2,3,4));
 
 let arr1 = [1,2,3];
 let arr2 = [4,5,6];
